@@ -2,20 +2,20 @@
 
 ML Engineering Curriculum · Level 30 · [learning](https://github.com/ml-engineering-curriculum/senior-ml-engineer-learning) · [solutions](https://github.com/ml-engineering-curriculum/senior-ml-engineer-solutions)
 
-_Generated 2026-11-03 by `aicg org completeness`._
+_Generated 2026-11-08 by `aicg org completeness`._
 
-**Overall: 50%**
+**Overall: 54%**
 
 | | Progress | Count |
 |---|---|---|
 | Learning | `██████████` 100% | 10/10 modules complete |
-| Solutions | `░░░░░░░░░░` 0% | 0/38 exercises solved |
+| Solutions | `█░░░░░░░░░` 8% | 3/38 exercises solved |
 
 ## Modules
 
 | Module | Status | Words | Chapters | Exercises | Quiz | Solutions |
 |---|---|---|---|---|---|---|
-| `mod-301-senior-ml-role-scope` | ✅ Complete | 12,159 | 5 | 3 | — | 0/3 |
+| `mod-301-senior-ml-role-scope` | ✅ Complete | 12,159 | 5 | 3 | — | 3/3 |
 | `mod-302-ml-systems-architecture` | ✅ Complete | 20,043 | 6 | 4 | — | 0/4 |
 | `mod-303-advanced-modeling` | ✅ Complete | 24,151 | 8 | 4 | — | 0/4 |
 | `mod-304-production-llm-integration` | ✅ Complete | 27,845 | 6 | 4 | — | 0/4 |

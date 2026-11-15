@@ -2,14 +2,14 @@
 
 ML Engineering Curriculum · Level 30 · [learning](https://github.com/ml-engineering-curriculum/senior-ml-engineer-learning) · [solutions](https://github.com/ml-engineering-curriculum/senior-ml-engineer-solutions)
 
-_Generated 2026-11-08 by `aicg org completeness`._
+_Generated 2026-11-15 by `aicg org completeness`._
 
-**Overall: 54%**
+**Overall: 70%**
 
 | | Progress | Count |
 |---|---|---|
 | Learning | `██████████` 100% | 10/10 modules complete |
-| Solutions | `█░░░░░░░░░` 8% | 3/38 exercises solved |
+| Solutions | `████░░░░░░` 39% | 15/38 exercises solved |
 
 ## Modules
 
@@ -17,9 +17,9 @@ _Generated 2026-11-08 by `aicg org completeness`._
 |---|---|---|---|---|---|---|
 | `mod-301-senior-ml-role-scope` | ✅ Complete | 12,159 | 5 | 3 | — | 3/3 |
 | `mod-302-ml-systems-architecture` | ✅ Complete | 20,043 | 6 | 4 | — | 0/4 |
-| `mod-303-advanced-modeling` | ✅ Complete | 24,151 | 8 | 4 | — | 0/4 |
-| `mod-304-production-llm-integration` | ✅ Complete | 27,845 | 6 | 4 | — | 0/4 |
-| `mod-305-advanced-evaluation` | ✅ Complete | 22,362 | 5 | 4 | — | 0/4 |
+| `mod-303-advanced-modeling` | ✅ Complete | 24,151 | 8 | 4 | — | 4/4 |
+| `mod-304-production-llm-integration` | ✅ Complete | 27,845 | 6 | 4 | — | 4/4 |
+| `mod-305-advanced-evaluation` | ✅ Complete | 22,362 | 5 | 4 | — | 4/4 |
 | `mod-306-experimentation-at-scale` | ✅ Complete | 23,589 | 5 | 4 | — | 0/4 |
 | `mod-307-ml-reliability-slos` | ✅ Complete | 28,471 | 5 | 4 | — | 0/4 |
 | `mod-308-platform-collaboration` | ✅ Complete | 24,754 | 4 | 3 | — | 0/3 |

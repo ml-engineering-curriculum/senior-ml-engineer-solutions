@@ -11,3 +11,4 @@
 | 2026-11-18 | `fill-mod-306-experimentation-at-scale-solutions` | `mod-306-experimentation-at-scale` | Fill mod-306-experimentation-at-scale module exercise solutions |
 | 2026-11-19 | `fill-mod-307-ml-reliability-slos-solutions` | `mod-307-ml-reliability-slos` | Fill mod-307-ml-reliability-slos module exercise solutions |
 | 2026-11-20 | `fill-mod-308-platform-collaboration-solutions` | `mod-308-platform-collaboration` | Fill mod-308-platform-collaboration module exercise solutions |
+| 2026-11-22 | `fill-mod-309-responsible-ai-governance-solutions` | `mod-309-responsible-ai-governance` | Fill mod-309-responsible-ai-governance module exercise solutions |
